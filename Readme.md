@@ -47,7 +47,8 @@ npm run dev
 
 ---
 ### Shopping Cart Section
-<img width="1919" height="925" alt="image" src="https://github.com/user-attachments/assets/4396be29-a868-44b9-bd23-064951c406ee" />
+<img width="1919" height="918" alt="image" src="https://github.com/user-attachments/assets/43e21fa9-b775-4bda-a46c-94e3d561e163" />
+
 
 # Author- Shiven Sharma
 - https://github/shiven0nly
