@@ -1,4 +1,4 @@
-<img width="1919" height="918" alt="image" src="https://github.com/user-attachments/assets/93d4e990-ad48-4729-bfaf-b2ef2972a411" /># 🛍️ Mini-Commerce App
+# 🛍️ Mini E-commerce Site
 
 A modern **mini e-commerce application** built with **MERN Stack** featuring authentication, product listing, cart management, and a sleek **Glassmorphism UI**.
 
